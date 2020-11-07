@@ -1,0 +1,99 @@
+
+----------------------------------
+company_name: Marrell J. McNeal Attorney at Law, PC
+city: abbeville
+state: alabama
+phone: 334-275-4368
+website: https://www.marrellmcneallaw.com?refPageViewId=5ee32e32f1a49e97
+profile_url: https://lawyers.findlaw.com/profile/lawfirm/marrell-j-mcneal-attorney-at-law-pc/al/opelika/MjAzNjU3OV8x/PP?refPageViewId=5ee32e32f1a49e97
+----------------------------------
+company_name: John V. Martine, Attorney at Law
+city: abernant
+state: alabama
+phone: 205-606-6788
+website: https://www.smalltownlawyers.com?refPageViewId=5ee32e3ca7539e2b
+profile_url: https://lawyers.findlaw.com/profile/lawfirm/john-v-martine-attorney-at-law/al/winfield/NDMxOTYxNV8x/PP?refPageViewId=5ee32e3ca7539e2b
+----------------------------------
+company_name: Potts &amp; Young Attorneys, L.L.P.
+city: abernant
+state: alabama
+phone: 256-764-7142
+website: http://www.pottsyoung.com?refPageViewId=5ee32e3ca7539e2b
+profile_url: https://lawyers.findlaw.com/profile/lawfirm/potts--young-attorneys-llp/al/florence/MjM4ODQ2NF8x/PP?refPageViewId=5ee32e3ca7539e2b
+----------------------------------
+company_name: Marrell J. McNeal Attorney at Law, PC
+city: abernant
+state: alabama
+phone: 334-275-4368
+website: https://www.marrellmcneallaw.com?refPageViewId=5ee32e3ca7539e2b
+profile_url: https://lawyers.findlaw.com/profile/lawfirm/marrell-j-mcneal-attorney-at-law-pc/al/opelika/MjAzNjU3OV8x/PP?refPageViewId=5ee32e3ca7539e2b
+----------------------------------
+company_name: John V. Martine, Attorney at Law
+city: adamsville
+state: alabama
+phone: 205-606-6788
+website: https://www.smalltownlawyers.com?refPageViewId=5ee32e4e359c38dc
+profile_url: https://lawyers.findlaw.com/profile/lawfirm/john-v-martine-attorney-at-law/al/winfield/NDMxOTYxNV8x/PP?refPageViewId=5ee32e4e359c38dc
+----------------------------------
+company_name: Potts &amp; Young Attorneys, L.L.P.
+city: adamsville
+state: alabama
+phone: 256-764-7142
+website: http://www.pottsyoung.com?refPageViewId=5ee32e4e359c38dc
+profile_url: https://lawyers.findlaw.com/profile/lawfirm/potts--young-attorneys-llp/al/florence/MjM4ODQ2NF8x/PP?refPageViewId=5ee32e4e359c38dc
+----------------------------------
+company_name: Marrell J. McNeal Attorney at Law, PC
+city: adamsville
+state: alabama
+phone: 334-275-4368
+website: https://www.marrellmcneallaw.com?refPageViewId=5ee32e4e359c38dc
+profile_url: https://lawyers.findlaw.com/profile/lawfirm/marrell-j-mcneal-attorney-at-law-pc/al/opelika/MjAzNjU3OV8x/PP?refPageViewId=5ee32e4e359c38dc
+----------------------------------
+company_name: John V. Martine, Attorney at Law
+city: addison
+state: alabama
+phone: 205-606-6788
+website: https://www.smalltownlawyers.com?refPageViewId=5ee32e5d216f38c9
+profile_url: https://lawyers.findlaw.com/profile/lawfirm/john-v-martine-attorney-at-law/al/winfield/NDMxOTYxNV8x/PP?refPageViewId=5ee32e5d216f38c9
+----------------------------------
+company_name: Potts &amp; Young Attorneys, L.L.P.
+city: addison
+state: alabama
+phone: 256-764-7142
+website: http://www.pottsyoung.com?refPageViewId=5ee32e5d216f38c9
+profile_url: https://lawyers.findlaw.com/profile/lawfirm/potts--young-attorneys-llp/al/florence/MjM4ODQ2NF8x/PP?refPageViewId=5ee32e5d216f38c9
+----------------------------------
+company_name: John V. Martine, Attorney at Law
+city: adger
+state: alabama
+phone: 205-606-6788
+website: https://www.smalltownlawyers.com?refPageViewId=5ee32e6d34889e79
+profile_url: https://lawyers.findlaw.com/profile/lawfirm/john-v-martine-attorney-at-law/al/winfield/NDMxOTYxNV8x/PP?refPageViewId=5ee32e6d34889e79
+----------------------------------
+company_name: Potts &amp; Young Attorneys, L.L.P.
+city: adger
+state: alabama
+phone: 256-764-7142
+website: http://www.pottsyoung.com?refPageViewId=5ee32e6d34889e79
+profile_url: https://lawyers.findlaw.com/profile/lawfirm/potts--young-attorneys-llp/al/florence/MjM4ODQ2NF8x/PP?refPageViewId=5ee32e6d34889e79
+----------------------------------
+company_name: Marrell J. McNeal Attorney at Law, PC
+city: adger
+state: alabama
+phone: 334-275-4368
+website: https://www.marrellmcneallaw.com?refPageViewId=5ee32e6d34889e79
+profile_url: https://lawyers.findlaw.com/profile/lawfirm/marrell-j-mcneal-attorney-at-law-pc/al/opelika/MjAzNjU3OV8x/PP?refPageViewId=5ee32e6d34889e79
+----------------------------------
+company_name: Cascadia Cross Border Law Group LLC
+city: anchor-point
+state: alaska
+phone: 888-494-1486
+website: https://www.cascadialawalaska.com?refPageViewId=5ee32e8710489e37
+profile_url: https://lawyers.findlaw.com/profile/lawfirm/cascadia-cross-border-law-group-llc/ak/anchorage/MjIyMDYyMF8x/PP?refPageViewId=5ee32e8710489e37
+----------------------------------
+company_name: Cascadia Cross Border Law Group LLC
+city: anchorage
+state: alaska
+phone: 888-494-1486
+website: https://www.cascadialawalaska.com?refPageViewId=5ee32e8d843bfd6a
+profile_url: https://lawyers.findlaw.com/profile/lawfirm/cascadia-cross-border-law-group-llc/ak/anchorage/MjIyMDYyMF8x/PP?refPageViewId=5ee32e8d843bfd6a

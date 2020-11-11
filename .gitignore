@@ -1,0 +1,7 @@
+
+.idea
+
+# for results.txt and error.txt
+*.txt
+
+__pycache__/

@@ -7,6 +7,7 @@ It creates a file named results.txt which includes all the immigration lawyer fi
 
 from bs4 import BeautifulSoup
 import requests
+from requests.exceptions import MissingSchema
 
 from lawyer import Lawyer
 
@@ -17,13 +18,18 @@ url_state = "https://lawyers.findlaw.com/lawyer/practicestateallcities/immigrati
 url_city = "https://lawyers.findlaw.com/lawyer/firm/immigration-naturalization-law/"
 
 
-def get_text_from_url(url):
+def get_text_from_url(url, lawyer):
     """
     A function that returns the text retrieved from a specific url
     :param url:
     :return: text
     """
-    html_doc = requests.get(url).content
+    try:
+        html_doc = requests.get(url).content
+    except MissingSchema:
+        report_error(lawyer)
+        return ""
+
     soup = BeautifulSoup(html_doc, 'html.parser')
     return soup.get_text()
 
@@ -89,11 +95,21 @@ def get_firms_details(firm_url, state, city):
         except IndexError:
             lawyer.website = ""
 
-        lawyer.phone = get_text_from_url(lawyer.profile_url).split('"telephone": "', 1)[1].split('"', 1)[0]
+        try:
+            lawyer.phone = get_text_from_url(lawyer.profile_url, lawyer).split('"telephone": "', 1)[1].split('"', 1)[0]
+        except:
+            lawyer.phone = ""
 
         lawyers.append(lawyer)
 
     return lawyers
+
+
+def report_error(lawyer):
+    with open("error.txt", "a+") as f:
+        f.write("\n----------------------------------\n")
+        f.write(lawyer)
+
 
 
 def main():
@@ -101,7 +117,7 @@ def main():
     states = get_states(text)
 
     # for each state retrieve the cities
-    max_states = 2              # TESTING   ###############################
+    max_states = 3              # TESTING   ###############################
     for state in states:
         # convert state to acceptable format
         state = state.lower()
